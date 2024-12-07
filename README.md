@@ -7,7 +7,7 @@
   좌표값 설정 : moveTo() 메서드 이용
 </pre>
 
-##실행방법
+## 실행방법
 <pre>
   python automacrot.py
 </pre>
